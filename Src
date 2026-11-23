@@ -1,0 +1,9 @@
+"""A simple Python program for the ITF-SUPA GitHub practical."""
+
+
+def greet(name):
+    return f"Hello, {name}! Welcome to my GitHub repository."
+
+
+if __name__ == "__main__":
+    print(greet("World"))
