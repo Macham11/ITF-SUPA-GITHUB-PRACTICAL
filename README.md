@@ -27,8 +27,8 @@ python src/hello.py
 
 ## Author
 
-**[Your Full Name]**
-GitHub: [@your-username](https://github.com/[your-username])
+Benedicta
+GitHub: [@macham11](https://github.com/[your-username])
 
 ## License
 
